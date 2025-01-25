@@ -31,5 +31,14 @@ The main objective of this project is to analyze retail sales data, gaining acti
 - Category % distribution based on sales: The biggest selling category is "Tea", followed by "Coffee beans" and "Drinking Chocolate".
 - Top 5 products based on sales: The best-selling products are "Barista Espresso", "Brewed Black Tea", "Brewed Chai Tea", "Gourmet", and "Hot Chocolate".
 - Order on weekdays: The highest orders were placed on Thursday and Saturday, while the lowest order was on Sunday.
+-
+   ## Final Conclusion
+- Peak sales: 9-11 am
+- Best-selling category: Tea (42%)
+- Top products: Barista Espresso, Brewed Black Tea, etc.
+- Busiest days: Thursday, Saturday
+- Highest sales location: Lower Manhattan
+- Highest sales month: January
+
 - Footfall and Sales over various store locations: The "Lower Manhattan" location has the highest footfall and sales, followed by "Astoria".
 - Month name on sales based: The highest sales month was January, followed by March and May.
