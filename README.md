@@ -23,3 +23,13 @@ The main objective of this project is to analyze retail sales data, gaining acti
 
    ## Dashboard
    ![Screenshot 2025-01-25 130358](https://github.com/user-attachments/assets/4398f9ba-2962-4ab6-bf56-27c20aeb52f1)
+ ## Project Insight
+- Total sales: The shop has earned $6,98,812.33 total.
+- Footfall: The shop has had 149,116 customers.
+- Average bill per person: The average customer spends $4.69.
+- Quantity ordered based on hours: The highest quantity ordered is between 9-11 hours.
+- Category % distribution based on sales: The biggest selling category is "Tea", followed by "Coffee beans" and "Drinking Chocolate".
+- Top 5 products based on sales: The best-selling products are "Barista Espresso", "Brewed Black Tea", "Brewed Chai Tea", "Gourmet", and "Hot Chocolate".
+- Order on weekdays: The highest orders were placed on Thursday and Saturday, while the lowest order was on Sunday.
+- Footfall and Sales over various store locations: The "Lower Manhattan" location has the highest footfall and sales, followed by "Astoria".
+- Month name on sales based: The highest sales month was January, followed by March and May.
